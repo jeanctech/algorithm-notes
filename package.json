@@ -36,5 +36,18 @@
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "core-js",
+      "core-js-pure",
+      "es5-ext",
+      "gatsby",
+      "gatsby-cli",
+      "gatsby-telemetry",
+      "lmdb",
+      "msgpackr-extract",
+      "sharp"
+    ]
   }
 }
